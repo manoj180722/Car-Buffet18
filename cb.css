@@ -1,0 +1,26 @@
+legend
+{
+font-size:25px;
+font-weight:bold;
+font-family:"cooper";
+}
+table
+{
+font-weight:bold;
+font-family:"cooper";
+}
+fieldset
+{
+font-color:black;
+border:5px solid yellow;
+border-color:yellow;
+border-radius:10px;
+
+}
+button
+{
+background-color:green;
+}
+.a{
+    width: 500px;
+}
